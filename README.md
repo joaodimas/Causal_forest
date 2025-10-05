@@ -1,5 +1,7 @@
 # CATE Estimation with Causal Forest
 
+Author: João Dimas (joaohdimas@gmail.com)
+
 This notebook provides a practical comparison of several methods for estimating Conditional Average Treatment Effects (CATE) using simulated data.  
 
 We explore how different models perform under various data-generating processes, from simple linear relationships to complex scenarios with unobserved heterogeneity. 
